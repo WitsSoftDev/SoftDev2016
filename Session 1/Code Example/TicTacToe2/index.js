@@ -126,7 +126,7 @@ function askMove(world, size){
 
 	  	checkUserMove = checkMove(world, size, userIn[0], userIn[1]);
 
-	  	if (!checkMove){
+	  	if (!checkUserMove){
 	  		console.log("Please enter a valid move.\n");
 	  	}
 	}
