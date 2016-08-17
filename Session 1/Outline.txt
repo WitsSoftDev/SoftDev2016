@@ -1,0 +1,14 @@
+Outline
+=======
+
+Introduction:
+
+What this is.
+Install NodeJs
+Defining the problem
+Uses cases
+Diagrams
+TicTacToe - use cases
+Code example
+
+
