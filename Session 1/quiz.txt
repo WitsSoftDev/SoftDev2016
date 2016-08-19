@@ -1,0 +1,7 @@
+Quiz:
+
+1. What is version control?
+2. How does continious integration help make software more reliable?
+3. How are tickets constructed for the scoping of a software development project?
+4. In NodeJS what does 'use strict' at the top of the code mean?
+5. Why should we use software design techniques over just programming a solution?
