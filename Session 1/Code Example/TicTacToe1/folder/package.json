@@ -1,0 +1,14 @@
+{
+  "name": "folder",
+  "version": "0.0.1",
+  "description": "Its a blank folder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Chalom",
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "1.4.4"
+  }
+}
