@@ -1,0 +1,7 @@
+5 Session Breakdown
+
+1. Introduction
+2. Systems design models, shown using the class example and introduce the small project to be done by participants. Introduce web systems.
+3. Testing, testing frameworks and testing using the class example. Also what tests the small project should have and some diagrams.
+4. Code patterns and some examples using the class example. Cohesion and Coupling, gang of four code patterns. Anti-patterns and avoiding them.
+5. Design methodologies for both web and android. Will look at making mock-ups and user interfaces. Again for class example and small project. Using Data
