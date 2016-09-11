@@ -1,0 +1,23 @@
+Hi Shun,
+
+Sorry this is so late, here is the 10 descriptions of the videos:
+
+Those doing the course should be able to code in object oriented programming languages preferably Java / JavaScript and be familiar with Git or at least do the tutorial linked in the introduction.
+
+NodeJS:
+1. An introduction, introducing NodeJS, use cases, and some terminology. Showing the class example for the first time. 
+2. Systems design models, shown using the class example and introduce the small project to be done by participants. Introduce web systems.
+3. Testing, testing frameworks and testing using the class example. Also what tests the small project should have and some diagrams.
+4. Code patterns and some examples using the class example. Cohesion and Coupling, gang of four code patterns. Anti-patterns and avoiding them.
+5. System topologies especially server-client. How NodeJS works with data. MongoDb databases. Will link up with class example and small project. Using data
+
+6. Design methodologies for both web and android. Will look at making mock-ups and user interfaces. Again for class example and small project.
+
+Android Development:
+7. Introduction to Android development using class example, and previous designs.
+8. Using data and web-sockets from a nodejs server. Getting and using data. Sending data back.
+9. Android system controls, using the internal sensors in your programs. 
+10. The class example final showcase, what should have been built ... maybe some more stuff here?
+ 
+Thanks,
+Jason Chalom
