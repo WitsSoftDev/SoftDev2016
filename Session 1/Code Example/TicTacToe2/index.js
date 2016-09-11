@@ -111,6 +111,10 @@ function askMove(world, size){
 
 	//can create unending loop of no moves left
 	var movesLeft = numberMovesLeft(world, size);
+
+	var x = null; //shouldn't do this
+	var y = null;
+
 	while (!checkUserMove && movesLeft > 0)	{
 		//an alternative approach
 		
@@ -123,15 +127,19 @@ function askMove(world, size){
 
 	  	//using the library makes life easy
 	  	userIn = readlineSync.question("Please input a move that has not been done. <x,y> ");
+	  	userIn = userIn.split(',');
 
-	  	checkUserMove = checkMove(world, size, userIn[0], userIn[1]);
+  		x = parseInt(userIn[0]) - 1;
+		y = parseInt(userIn[1]) - 1;
+
+	  	checkUserMove = checkMove(world, size, x, y);
 
 	  	if (!checkUserMove){
 	  		console.log("Please enter a valid move.\n");
 	  	}
 	}
 
-	world[userIn[0]][userIn[1]] = "O";
+	world[x][y] = "O";
 
 	return world;
 }
