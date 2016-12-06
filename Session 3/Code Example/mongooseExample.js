@@ -38,5 +38,9 @@ book.findOne({ $or: [{ author: "01" }, { language: "English" }] }, function(err,
         return reject(err);
     }
 
+    book.picURL = "http://";
+
+    book.save();
+
     console.log(book);
 });
