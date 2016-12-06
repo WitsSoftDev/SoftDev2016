@@ -36,7 +36,7 @@ function main() {
 
     console.log("\nFiles:" + util.inspect(files));
 }
-main(); //this is removed when integrated into a package
+//main(); //this is removed when integrated into a package
 
 module.exports = {
     getFilesInFolder: getFilesInFolder

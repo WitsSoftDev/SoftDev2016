@@ -4,7 +4,7 @@
   "description": "",
   "main": "fileScanning.js",
   "scripts": {
-    "test": "gulp test --color"
+    "test": "./node_modules/.bin/mocha --reporter spec"
   },
   "author": "Jason Chalom",
   "license": "MIT",

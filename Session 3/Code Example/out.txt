@@ -1,0 +1,4 @@
+
+Files:[ '\\development\\SoftDev2016\\Session 3\\Code Example\\testExample\\testCaseFolder\\txt1.txt',
+  '\\development\\SoftDev2016\\Session 3\\Code Example\\testExample\\testCaseFolder\\txt2.txt',
+  '\\development\\SoftDev2016\\Session 3\\Code Example\\testExample\\testCaseFolder\\txt3.txt' ]
