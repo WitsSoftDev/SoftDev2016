@@ -1,0 +1,5 @@
+{
+    "mongodb": "mongodb://localhost/exampleDb",
+    "mongoUser": "trex22",
+    "mongoPassword": "123456"
+}
