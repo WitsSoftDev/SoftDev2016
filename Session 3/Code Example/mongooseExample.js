@@ -1,7 +1,7 @@
 var book = require('./bookSchema.js');
 
 var iBook = new book({
-    title: "A Book about Tests",
+    title: "The second book",
     author: "me",
     userId: "01",
     noAvailable: 1,
@@ -38,7 +38,7 @@ book.findOne({ $or: [{ author: "01" }, { language: "English" }] }, function(err,
         return reject(err);
     }
 
-    book.picURL = "http://";
+    book.picURL = "http://www.google.com";
 
     book.save();
 

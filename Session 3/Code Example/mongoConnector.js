@@ -11,7 +11,7 @@ function main() {
             console.log("Connected to database");
             myCollection = db.collection("collectionA");
 
-            myCollection.insert({ name: "Arrdvark", description: "An animal." }, function(err, result) {
+            myCollection.insert({ name: "Dog", description: "An animal." }, function(err, result) {
                 if (err)
                     console.error("Error: " + err);
 
