@@ -1,0 +1,15 @@
+They should be multiple choices with wrong answers and the right answers shown below
+
+Quiz:
+
+1. What is code?
+2. What is the difference between cohesion and coupling?
+3. Name two ways of solving callback hell.
+4. What is a promise?
+
+Answers:
+1. Code is a logical way of describing a problem to a computing system in a logical way.
+2. Cohesion is about how a module or function of code is constructed. How its internal lines of code related to each other.
+Coupling is about how different modules of code communicate to each other, control each other and what data they send each other.
+3. Using the Async Library and using generators.
+4. It is a placeholder for an eventual result of an asynchronous operation.

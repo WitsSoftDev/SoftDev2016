@@ -1,0 +1,15 @@
+They should be multiple choices with wrong answers and the right answers shown below
+
+Quiz:
+
+1. Name 3 User Interface Strategies.
+2. Is UX Greater than UI design?
+3. Is Qualitative research about looking at the raw data?
+4. What went wrong with MetroUI and Microsoft
+
+
+Answers:
+1. Double Coding; Data Grouping; Symmetry; Data Density; Contrast; Consistency
+2. Yes, UX included UI design and much more
+3. No qualitative research is about answering the why, or to find out abstract information not raw data or statistics. 
+4. The broke the consistency of their main product and people panicked. 

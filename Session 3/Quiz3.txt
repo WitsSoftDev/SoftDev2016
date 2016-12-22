@@ -1,0 +1,14 @@
+They should be multiple choices with wrong answers and the right answers shown below
+
+Quiz:
+
+1. What is MongoDb?
+2. Name a connector in NodeJS to use with MongoDb.
+3. What do task/build runners help with doing?
+4. What two types of testing are there?
+
+Answers:
+1. MongoDb is a non-relational, document based database. It uses collections of documents as its datastore.
+2. MongoDb, Mongoose
+3. They help chain development and production tasks together in order to run, build or run a process associated with the NodeJS application.
+4. Functional Testing, Non-functional Testing

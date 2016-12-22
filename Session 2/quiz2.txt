@@ -1,0 +1,14 @@
+They should be multiple choices with wrong answers and the right answers shown below
+
+Quiz:
+
+1. Why would you not use the waterfall model?
+2. How does AGILE help to reduce scope creep problems?
+3. Should layers in the layered architecture talk to anyother layers present in the system.
+4. What is the main reason for using modular code?
+
+Answers:
+1. The waterfall model is very ridgid and it does not like to adapt to change which is present in modern web systems and the internet.
+2. It ensures that the project grows slowly feature-by-feature which allows for the initial features to be implemented before moving on to newer features. The iterations control how many features can be present at each sprint cycle.
+3. No they should only talk to sub layers connected to them and the layers directly above and below the specific layer in question.
+4. To help with reusing code elsewhere and in other projects.
