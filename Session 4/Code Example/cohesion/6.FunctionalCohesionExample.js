@@ -13,4 +13,5 @@ function Method() {
     }
 
     //all calculations are done on sellingPrice
+    return sellingPrice;
 }
