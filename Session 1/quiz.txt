@@ -1,3 +1,5 @@
+They should be multiple choices with wrong answers and the right answers shown below
+
 Quiz:
 
 1. What is version control?
@@ -5,3 +7,12 @@ Quiz:
 3. How are tickets constructed for the scoping of a software development project?
 4. In NodeJS what does 'use strict' at the top of the code mean?
 5. Why should we use software design techniques over just programming a solution?
+
+Answasers:
+
+1. It is a system which helps to track the progression of a project, and the different versions of the project's files.
+2. It makes sure that automated tests are run whenever the product is being released, an update goes out to customers or a change is committed to the version control system.
+3. Breakup larger primary goals, requirements or tasks into smaller sub units. Keep doing this until you get to small granular units of work which can be assigned to tickets.
+4. It is a directive which is used to tell NodeJS to execute JavaScript in a strict mode which ensures that certain code syntax is enforced rather than ignored when the code is incorrectly written.
+5. Software design principles help produce robust and 'clean code' which can be debugged more easily, reused and worked on by others. These techniques also help to make the process able to deliver better software, efficiently.
+
